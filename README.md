@@ -19,10 +19,15 @@ The dataset contains ~540k rows of invoices, products, customers, and sales. The
 
 ## 📂 Repository Structure
 ecommerce-sales-analysis/
+
 ├── data/ # dataset
+
 ├── figures/ # saved plots
+
 ├── notebooks/ # Jupyter/Colab notebooks
+
 ├── README.md # project documentation
+
 ├── LICENSE # open-source license
 
 ## 🚀 Tools & Technologies
@@ -44,4 +49,5 @@ Industrial Engineer · Data Analyst · Power BI · SQL
 - 🔗 [LinkedIn](https://linkedin.com/in/joaquin-ferrer)
 - 📘 [Notion Portfolio](https://notion.so/joaquin-ferrer)
 - 💻 [GitHub](https://github.com/joaquin-ferrer)
+
 
